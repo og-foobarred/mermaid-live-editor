@@ -1,0 +1,3 @@
+{
+  "/(dashboard)/estimate/page": "app/(dashboard)/estimate/page.js"
+}

@@ -1,0 +1,50 @@
+{
+  "node": {
+    "40bc767a0748485d426ebed1f413c92e26a03234be": {
+      "workers": {
+        "app/(dashboard)/estimate/page": {
+          "moduleId": "[project]/.next-internal/server/app/(dashboard)/estimate/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/(dashboard)/estimate/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "createEstimate",
+          "filename": "src/app/(dashboard)/estimate/actions.ts"
+        }
+      },
+      "layer": {
+        "app/(dashboard)/estimate/page": "action-browser"
+      },
+      "exportedName": "createEstimate",
+      "filename": "src/app/(dashboard)/estimate/actions.ts"
+    },
+    "603aac5947431a9dc0a234664671f33fe66005b021": {
+      "workers": {
+        "app/(dashboard)/estimate/page": {
+          "moduleId": "[project]/.next-internal/server/app/(dashboard)/estimate/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/(dashboard)/estimate/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getConversationalResponse",
+          "filename": "src/app/(dashboard)/estimate/actions.ts"
+        }
+      },
+      "layer": {
+        "app/(dashboard)/estimate/page": "action-browser"
+      },
+      "exportedName": "getConversationalResponse",
+      "filename": "src/app/(dashboard)/estimate/actions.ts"
+    },
+    "005de72a88a79a163f6e8799abc10d3dfcb5afd65c": {
+      "workers": {
+        "app/(dashboard)/estimate/page": {
+          "moduleId": "[project]/.next-internal/server/app/(dashboard)/estimate/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/(dashboard)/estimate/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "testAIConnection",
+          "filename": "src/app/(dashboard)/estimate/actions.ts"
+        }
+      },
+      "layer": {
+        "app/(dashboard)/estimate/page": "action-browser"
+      },
+      "exportedName": "testAIConnection",
+      "filename": "src/app/(dashboard)/estimate/actions.ts"
+    }
+  },
+  "edge": {}
+}

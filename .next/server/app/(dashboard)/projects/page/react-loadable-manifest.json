@@ -1,0 +1,9 @@
+{
+  "[project]/src/components/ui/sidebar.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/src/components/ui/sidebar.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/src_components_ui_sidebar_tsx_3411beba._.js",
+      "static/chunks/src_components_ui_sidebar_tsx_dbe496d0._.js"
+    ]
+  }
+}
